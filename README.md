@@ -24,6 +24,7 @@ The model has been trained using a TF-IDF vectorizer and a supervised learning a
 - 🧰 Easily extendable for real-world email text scanning
 
 ---
+## 📁 Folder Structure
 ML_Project/
 │
 ├── app.py # Flask web app for user interface
@@ -62,4 +63,4 @@ Then open your browser and go to:
 3.The phishing detection model (phishing_model.joblib) predicts whether the email is phishing or safe.
 4.The result is displayed instantly on the web interface.
 
-## 📁 Folder Structure
+
